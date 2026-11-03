@@ -4,12 +4,12 @@
 
 | Nama | NRP |
 |------|-----|
-| Nama Anggota 1 | NRP Anggota 1 |
-| Nama Anggota 2 | NRP Anggota 2 |
-| Nama Anggota 3 | NRP Anggota 3 |
-| Nama Anggota 4 | NRP Anggota 4 |
-| Nama Anggota 5 | NRP Anggota 5 |
-| Nama Anggota 6 (hapus jika tidak ada) | NRP Anggota 6 |
+| Qurrata Ayun Kamil | 5025241031 |
+| Muhammad Ryan Fikri Nugraha | 5025231013 |
+| Cathleen Gracia | 5025231018 |
+| Jalu Cahyo Senodiputro | 5025241155 |
+| Raditya Zhafran Pranuja | 5025241120 |
+| Erlangga Rizqi Dwi Raswanto | 5025241179 |
 
 ## Langkah Pengerjaan
 
