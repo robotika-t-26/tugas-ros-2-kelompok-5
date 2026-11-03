@@ -16,6 +16,7 @@ setup(
     entry_points={
         'console_scripts': [
             'member_1 = digit_relay.member_1:main',
+            'member_2 = digit_relay.member_2:main',
         ],
     },
 )
