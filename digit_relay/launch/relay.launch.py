@@ -8,6 +8,7 @@ def generate_launch_description():
         Node(package='digit_relay', executable='member_1', output='screen'),
         Node(package='digit_relay', executable='member_2', output='screen'),
         Node(package='digit_relay', executable='member_3', output='screen'),
+        Node(package='digit_relay', executable='member_4', output='screen'),
         Node(package='digit_relay', executable='member_5', output='screen'),
-        # Add member_4 .. member_6 here once their entry points exist in setup.py
+        # Add member_6 here once its entry point exists in setup.py
     ])
