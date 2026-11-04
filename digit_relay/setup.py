@@ -20,6 +20,7 @@ setup(
             'member_3 = digit_relay.member_3:main',
             'member_4 = digit_relay.member_4:main',
             'member_5 = digit_relay.member_5:main',
+            'member_6 = digit_relay.member_6:main',
         ],
     },
 )
